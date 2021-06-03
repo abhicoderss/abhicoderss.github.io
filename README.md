@@ -17,7 +17,7 @@ Checkout [Contribution Guide](CONTRIBUTING.md) for local setup and contribution 
 
 ---
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="abhicoderss" data-color="#FF5F5F" data-emoji="📖"  data-font="Cookie" data-text="Buy me a book" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
+<form><script src="https://checkout.razorpay.com/v1/payment-button.js" data-payment_button_id="pl_HIULC1GO3WSwtS" async> </script> </form>
 
 Bye!
 Have fun 🦄
